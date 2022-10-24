@@ -2,37 +2,31 @@
   <section class="container-fluid">
     <div class="row bg-dark text-white">
       <div class="col-lg-7 p-0">
-        <div id="carouselCidades" class="carousel slide" data-ride="carousel">
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img
-                class="d-block w-100"
-                src="../components/img/olivier-collet-JMwCe3w7qKk-unsplash.jpg"
-                alt="pc"
-              />
-              <div class="carousel-caption"></div>
-            </div>
-            <div class="carousel-item">
-              <img
-                class="d-block w-100"
-                src="../components/img/olivier-collet-JMwCe3w7qKk-unsplash.jpg"
-                alt="pc"
-              />
-              <div class="carousel-caption">
-              </div>
-            </div>
-            <div class="carousel-item">
-              <img
-                class="d-block w-100"
-                src="../components/img/olivier-collet-JMwCe3w7qKk-unsplash.jpg"
-                alt=""
-              />
-              <div class="carousel-caption">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+        <div id="carouselExampleControlsNoTouching" class="carousel slide" data-bs-touch="false">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../components/img/olivier-collet-JMwCe3w7qKk-unsplash.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item active">
+      <img src="../components/img/anthony-roberts-fMbiAi0rbkA-unsplash.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item active">
+      <img src="../components/img/anthony-roberts-fMbiAi0rbkA-unsplash.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="../components/img/anthony-roberts-5WJhuXkqCkc-unsplash.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+  </div>
+</div>
       <div class="col-lg-5 p-4 align-self-center">
         <h1 class="display-4">STOCCO PCS & utilitários</h1>
         <p class="lead">

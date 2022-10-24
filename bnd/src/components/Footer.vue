@@ -180,7 +180,7 @@
       </div>
     </div>
     <div class="bg-primary text-center py-3">
-      <p class="mb-0">stocco © 2017. Alguns direitos reservados.</p>
+      <p class="mb-0">stocco ©. Alguns direitos reservados.</p>
     </div>
   </footer>
 </template>
