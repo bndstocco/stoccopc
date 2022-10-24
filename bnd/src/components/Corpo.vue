@@ -28,18 +28,6 @@
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
       <div class="col-lg-5 p-4 align-self-center">
         <h1 class="display-4">STOCCO PCS & utilitários</h1>
